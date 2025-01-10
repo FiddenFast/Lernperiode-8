@@ -6,5 +6,9 @@
 In diesem Abschnitt möchte ich mich am Anfang für Modul 450 arbeiten und gelegentlich an Modulen die schwierig oder zeitaufwändig sind. Grundsätzlich will ich aber wieder ein neues Projekt starten. 
 
 # 10.1.25
-- [ ] Modul 450 Unit Testing
+- [x] Modul 450 Unit Testing
 - [ ] Modul 450 Debugging
+
+# 17.1.25
+- [ ] Modul 347 DockerCompose
+- [ ] Modul 347 ComposeAnwendung
