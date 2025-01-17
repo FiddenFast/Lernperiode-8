@@ -10,5 +10,9 @@ In diesem Abschnitt möchte ich mich am Anfang für Modul 450 arbeiten und geleg
 - [ ] Modul 450 Debugging
 
 # 17.1.25
-- [ ] Modul 347 DockerCompose
+- [x] Modul 347 DockerCompose
 - [ ] Modul 347 ComposeAnwendung
+
+# 24.1.25
+- [ ] Modul 347 ComposeAnwendung
+- [ ] Modul 347 DockerComposeExtended
