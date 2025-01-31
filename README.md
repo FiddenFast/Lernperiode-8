@@ -14,5 +14,15 @@ In diesem Abschnitt möchte ich mich am Anfang für Modul 450 arbeiten und geleg
 - [ ] Modul 347 ComposeAnwendung
 
 # 24.1.25
-- [ ] Modul 347 ComposeAnwendung
-- [ ] Modul 347 DockerComposeExtended
+- [x] Modul 347 ComposeAnwendung
+- [x] Modul 347 DockerComposeExtended
+
+# 31.1.25
+- [x] Modul 114 Binärcodes
+- [x] Modul 114 Fehlererkennung
+- [x] Modul 114 Zeichenkodierung
+- [x] Modul 114 Speichergrössen
+
+# 21.2.25
+- [ ] Modul 114 Vektorpixel
+- [ ] Modul 114 bewegte Bilder
