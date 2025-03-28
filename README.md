@@ -24,5 +24,22 @@ In diesem Abschnitt möchte ich mich am Anfang für Modul 450 arbeiten und geleg
 - [x] Modul 114 Speichergrössen
 
 # 21.2.25
-- [ ] Modul 114 Vektorpixel
-- [ ] Modul 114 bewegte Bilder
+- [x] Modul 114 Vektorpixel
+- [x] Modul 114 bewegte Bilder
+
+# 7.3.25
+- [x] LA_114_1718_Farbmodell_RGB
+- [x] LA_114_1719_Farbmodell_CMYK
+
+# 14.3.25
+- [x] LA_114_1721_Huffman-Kodierung Datei 
+- [x] LA_114_1722_Komprimierung_anwenden Datei 
+  
+# 21.3.25
+- [x] LA_1611_installation Datei
+- [x] LA_1620_jupyter Datei
+
+
+# 28.3.25
+- [ ]
+- [ ]
